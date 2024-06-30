@@ -1,0 +1,11 @@
+Model Information:
+* title:	Panda Walk
+* source:	https://sketchfab.com/3d-models/panda-walk-02eb49fe9545406e83d8904605cead7a
+* author:	Julius (https://sketchfab.com/juleg)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Panda Walk" (https://sketchfab.com/3d-models/panda-walk-02eb49fe9545406e83d8904605cead7a) by Julius (https://sketchfab.com/juleg) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

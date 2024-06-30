@@ -1,0 +1,11 @@
+Model Information:
+* title:	MONKEY
+* source:	https://sketchfab.com/3d-models/monkey-8955fb5b9c9b4e169456ccbae7c465f7
+* author:	dinesdiabolik (https://sketchfab.com/dinesdiabolik)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MONKEY" (https://sketchfab.com/3d-models/monkey-8955fb5b9c9b4e169456ccbae7c465f7) by dinesdiabolik (https://sketchfab.com/dinesdiabolik) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
